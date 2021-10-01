@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: readmeio/github-readme-sync@v2
         with:
-          readme-oas-key: 4nDBAUF4nFwsgD1vxmF3E0eBfaxA4HP8
+          readme-oas-key: '4nDBAUF4nFwsgD1vxmF3E0eBfaxA4HP8'
 
           # OPTIONAL CONFIG, use if necessary
           oas-file-path: './test.yml'
