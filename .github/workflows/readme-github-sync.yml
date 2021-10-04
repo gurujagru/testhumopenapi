@@ -12,7 +12,6 @@ jobs:
       - uses: readmeio/github-readme-sync@v2
         with:
           readme-oas-key: 'PxPQpkBdPRsjkP40GePMNCr6FlTgVjrU'
-
           # OPTIONAL CONFIG, use if necessary
           oas-file-path: './openapi.yml'
           api-version: 'v1.0.0'
