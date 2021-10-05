@@ -1,6 +1,6 @@
 openapi: 3.0.2
 info:
-  title: testhumapidoc
+  title: test
   description: Optional multiline or single-line description in [CommonMark](https://commonmark.org/help/) or HTML.
   version: 1.0.0
 servers:
